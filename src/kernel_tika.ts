@@ -1,0 +1,1 @@
+const service_tika = <T>(args: T): T => { return args; };
